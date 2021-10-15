@@ -1,4 +1,4 @@
-# Nodejs + Babel + Webpack app starter
+# Nodejs + Babel + Webpack app starter2
 
 <img src="https://i.imgur.com/JhZtz0M.gif" />
 <!--<img src="https://i.imgur.com/n9uRVyk.gif" />-->
